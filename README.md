@@ -7,4 +7,4 @@
 - ✉️ How to reach me: kanishkamittal@outlook.in
 - ✨ Pronouns: she/her
 
-<!-- [![@kanishkamittal's Holopin board](https://holopin.me/kanishkamittal)](https://holopin.io/@kanishkamittal) -->
+[![@kanishkamittal's Holopin board](https://holopin.me/kanishkamittal)](https://holopin.io/@kanishkamittal)
